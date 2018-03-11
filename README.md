@@ -1,7 +1,6 @@
 # Analyzing_Hotels_Dataset
 
-Contains code files for analyzing hotel prices in a dataset.
+Contains code file(s) for analyzing hotel prices in a dataset.
 
-Terms and conditions of use
+You are free to copy, modify, reproduce, distribute and share the code file, but please refer to the orginal source. And include a link back to the file or blog.
 
-You agree that you will not copy, reproduce, or distribute any content in any manner or medium without permission.
