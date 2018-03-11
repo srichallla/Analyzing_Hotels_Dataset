@@ -4,4 +4,4 @@ Contains code files for analyzing hotel prices in a dataset.
 
 Terms and conditions of use
 
-You agree that you will not copy, reproduce, sell, or distribute any content in any manner or medium without permission.
+You agree that you will not copy, reproduce, or distribute any content in any manner or medium without permission.
